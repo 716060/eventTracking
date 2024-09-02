@@ -1,0 +1,3 @@
+path:
+  csv: "file/EventTracking.csv"
+  excel: "file/testCase.xlsx"
